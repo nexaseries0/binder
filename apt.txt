@@ -1,4 +1,4 @@
-iputils-ping
 aria2
-crunch
 ffmpeg
+htop
+btop
